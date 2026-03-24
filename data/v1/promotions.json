@@ -1,4 +1,5 @@
-[
+{
+  "promotions": [
 {"id":"1","productId":"1","type":"buy_X_pay_Y","percent":null,"buyX":3,"payY":2,"startAtEpoch":1782000025,"endAtEpoch":1894601510},
 {"id":"2","productId":"2","type":"percent","percent":20,"buyX":null,"payY":null,"startAtEpoch":1782000025,"endAtEpoch":1894601510},
 {"id":"3","productId":"3","type":"percent","percent":15,"buyX":null,"payY":null,"startAtEpoch":1782000025,"endAtEpoch":1894601510},
@@ -57,4 +58,5 @@
 {"id":"48","productId":"48","type":"buy_X_pay_Y","percent":null,"buyX":2,"payY":1,"startAtEpoch":1782000025,"endAtEpoch":1894601510},
 {"id":"49","productId":"49","type":"percent","percent":18,"buyX":null,"payY":null,"startAtEpoch":1782000025,"endAtEpoch":1894601510},
 {"id":"50","productId":"50","type":"percent","percent":12,"buyX":null,"payY":null,"startAtEpoch":1782000025,"endAtEpoch":1894601510}
-]
+  ]
+}
